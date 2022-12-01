@@ -1,6 +1,6 @@
-simple relay server using python-socketio
+Simple relay server using python-socketio
 
-example:
+example:<br>
 ./relay_server<br>
 ./client 1<br>
 ./client 2 -s 1<br>
